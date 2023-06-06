@@ -1,8 +1,8 @@
-## Portfolio
+## Selected Projects in data science, Machine Learning and Data analysis.
 
 ---
 
-### Category Name 1 
+### MOVIES: Analysis and recommender system
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
