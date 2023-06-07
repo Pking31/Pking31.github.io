@@ -2,10 +2,10 @@
 
 ---
 
-### MOVIES: Analysis and recommender system
+### Data Analysis and ML
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Movies: Analysis and recommender system](https://pking31.github.io/Movies/)
+<img src="https://github.com/Pking31/Movies/blob/a0a72828e7c02c06ae2e08453eedc6d5f17cd242/imag/BI.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
