@@ -20,8 +20,8 @@ datalink(DATOS ABIERTOS DEL GOBIERNO DE COLOMBIA): https://www.datos.gov.co/Educ
 This project aims to develop a machine learning model to predict a student's overall score using socioeconomic conditions as features. It involves extracting and cleaning data, performing exploratory data analysis, and implementing a linear regression model for prediction and evaluation.
 
 
-<img src="https://github.com/Pking31/Icfes_2019/blob/main/images/eda.png" alt="Texto alternativo" width="500" height="400">
+<img src="https://github.com/Pking31/Pking31.github.io/blob/master/images/eda.png" alt="Texto alternativo" width="500" height="400">
 
-![](https://github.com/Pking31/Icfes_2019/blob/main/images/predictive.png)
+
 
 [View code on Github](https://github.com/Pking31/Icfes_2019)  
