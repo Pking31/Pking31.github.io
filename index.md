@@ -22,7 +22,6 @@ This project aims to develop a machine learning model to predict a student's ove
 
 <img src="https://github.com/Pking31/Icfes_2019/blob/main/images/eda.png" alt="Texto alternativo" width="500" height="400">
 
-
-
-
 ![](https://github.com/Pking31/Icfes_2019/blob/main/images/predictive.png)
+
+[View code on Github](https://github.com/Pking31/Icfes_2019)  
