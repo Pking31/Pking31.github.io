@@ -36,7 +36,7 @@ I conducted a thorough analysis of the available data to understand its structur
 #### Data transformation and cleansing:
 Implemented data transformation and cleansing processes to address identified deficiencies. This included data normalization, outlier correction, and any other transformations needed to improve the quality and utility of the data.
 
-<img src="https://github.com/Pking31/Pking31.github.io/blob/master/images/primerbi.png" alt="Texto alternativo" width="500" height="600">
+<img src="https://github.com/Pking31/Pking31.github.io/blob/master/images/primerbi.png" alt="Texto alternativo" width="600" height="600">
 
 [Source: Ministerio de Educación Nacional](https://snies.mineducacion.gov.co/portal/ESTADISTICAS/Bases-consolidadas/)
 
