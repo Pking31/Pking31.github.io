@@ -20,7 +20,7 @@ This project aims to develop a machine learning model to predict a student's ove
 Dispatches, passengers, and beyond: Comprehensive analysis of public transportation in Colombia. Understand travel patterns with processed data and generated tables.
 
 
-<img src="https://github.com/Pking31/Pking31.github.io/blob/master/images/eda.png?raw=true" alt="Texto alternativo" width="500" height="400">
+<img src="https://github.com/Pking31/Pking31.github.io/blob/9b393ada1db445113483cbea060cd23d3e86b0d3/images/grafica.png" alt="Texto alternativo" width="500" height="400">
 
 [Data source: Datos abiertos de Colombia](https://www.datos.gov.co/Educaci-n/Saber-11-2019-2/ynam-yc42)
 
